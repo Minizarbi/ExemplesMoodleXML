@@ -1,0 +1,11 @@
+<question type="truefalse">
+	<text>Est-ce que tu aimes les crêpes au mon dieu !?!?</text>
+	<answer	fraction="100">
+		<text>true</text>
+		<feedback><text>Et oui, tout le monde aime les crêpes !</text></feedback>
+	</answer>
+	<answer	fraction="0">
+		<text>false</text>
+		<feedback><text>Euuuh… Sérieusement ?</text></feedback>
+	</answer>
+</question>
